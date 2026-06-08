@@ -10,12 +10,12 @@ I enjoy building immersive digital environments using tools like **React, Three.
 
 ## ✨ Currently Creating
 
-🌐 Interactive 3D web experiences
-🎨 Creative frontend interfaces
-🧊 3D scenes and visual compositions
-⚡ Motion-based web interactions
-🌀 Real-time graphics and visual effects
-🚀 Portfolio projects with immersive storytelling
+- 🌐 Interactive 3D web experiences
+- 🎨 Creative frontend interfaces
+- 🧊 3D scenes and visual compositions
+- ⚡ Motion-based web interactions
+- 🌀 Real-time graphics and visual effects
+- 🚀 Portfolio projects with immersive storytelling
 
 ---
 
