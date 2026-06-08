@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Neftali 👋
 
-<!--
-**neftale99/neftale99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Web 3D Designer • Frontend Developer • Creative Coder
 
-Here are some ideas to get you started:
+I create interactive and visually engaging web experiences by combining **3D graphics, motion design and frontend development**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building immersive digital environments using tools like **React, Three.js, React Three Fiber, GSAP and Blender**, with a focus on clean visuals, smooth interactions and creative storytelling.
+
+---
+
+## ✨ Currently Creating
+
+🌐 Interactive 3D web experiences
+🎨 Creative frontend interfaces
+🧊 3D scenes and visual compositions
+⚡ Motion-based web interactions
+🌀 Real-time graphics and visual effects
+🚀 Portfolio projects with immersive storytelling
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Frontend
+
+React · JavaScript · HTML · CSS · Next.js
+
+### 🧊 3D & Motion
+
+Three.js · React Three Fiber · GLSL · GSAP 
+
+### 🎨 Design & 3D Tools
+
+Blender 
+
+---
+
+## 🚀 Focus
+
+Building creative web experiences that go beyond static websites — combining **3D, motion and interaction** to create memorable digital interfaces.
+
+---
+
+## 🌐 Connect with Me
+
+LinkedIn: [www.linkedin.com/in/neftali-alejandro-mor-mar](http://www.linkedin.com/in/neftali-alejandro-mor-mar)
+Email: [neftali.amm@gmail.com](mailto:neftali.amm@gmail.com)
