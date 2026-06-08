@@ -8,7 +8,7 @@ I enjoy building immersive digital environments using tools like **React, Three.
 
 ---
 
-## ✨ Currently Creating
+## 💻 Currently Creating
 
 - 🌐 Interactive 3D web experiences
 - 🎨 Creative frontend interfaces
